@@ -1,0 +1,24 @@
+body,.c0,h1{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+body{
+  width: 100%;
+  min-height: 100vh;  
+  background: linear-gradient(lightblue,lightgreen);
+}
+.c0{
+  max-width: 500px;
+  padding: 10px;
+  background-color: tomato;
+  border-radius: 10px;
+  
+}
+h1{
+  text-align: center;
+  font-family: Monospace;
+  color: grey;
+  text-decoration: underline;
+}
