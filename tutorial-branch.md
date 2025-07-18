@@ -95,4 +95,4 @@ git branch -d fitur-login
 
 ---
 
-Semoga tutorial ini membantu! 🚀
+(okay)[haja]
